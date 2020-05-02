@@ -1,0 +1,11 @@
+/home/vsonline/workspace/hello-world/bin/Debug/netcoreapp3.1/hello-world
+/home/vsonline/workspace/hello-world/bin/Debug/netcoreapp3.1/hello-world.deps.json
+/home/vsonline/workspace/hello-world/bin/Debug/netcoreapp3.1/hello-world.runtimeconfig.json
+/home/vsonline/workspace/hello-world/bin/Debug/netcoreapp3.1/hello-world.runtimeconfig.dev.json
+/home/vsonline/workspace/hello-world/bin/Debug/netcoreapp3.1/hello-world.dll
+/home/vsonline/workspace/hello-world/bin/Debug/netcoreapp3.1/hello-world.pdb
+/home/vsonline/workspace/hello-world/obj/Debug/netcoreapp3.1/hello-world.csprojAssemblyReference.cache
+/home/vsonline/workspace/hello-world/obj/Debug/netcoreapp3.1/hello-world.AssemblyInfoInputs.cache
+/home/vsonline/workspace/hello-world/obj/Debug/netcoreapp3.1/hello-world.AssemblyInfo.cs
+/home/vsonline/workspace/hello-world/obj/Debug/netcoreapp3.1/hello-world.dll
+/home/vsonline/workspace/hello-world/obj/Debug/netcoreapp3.1/hello-world.pdb
